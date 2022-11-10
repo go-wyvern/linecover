@@ -52,8 +52,7 @@ func main() {
 	}
 
 	for _, v := range views {
-		f.WriteString(v + ":" + "\n")
-		printNodes(findViewNodes(v, lineCover), f)
+		printNodes(v, findViewNodes(v, lineCover), f)
 	}
 }
 
@@ -84,8 +83,8 @@ func fixView(v string) string {
 	return strings.Join(v2, "-")
 }
 
-func printNodes(n1 []string, f *os.File) {
+func printNodes(v string, n1 []string, f *os.File) {
 	for _, n := range n1 {
-		f.WriteString("    " + n + "\n")
+		f.WriteString(v + "    " + n + "\n")
 	}
 }
