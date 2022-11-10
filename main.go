@@ -38,7 +38,7 @@ func main() {
 	)
 	f, _ := os.Create("cover.log")
 	defer f.Close()
-	if err := LoadJson("./default_cover.json", &line1); err != nil {
+	if err := LoadJson("./quality_cover.json", &line1); err != nil {
 		fmt.Println(1, err)
 		return
 	}
