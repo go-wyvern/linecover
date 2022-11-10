@@ -1,7 +1,7 @@
-大环-上海电信:
-大环-上海移动:
-大环-上海联通:
-大环-云南电信:
+上海电信:
+上海移动:
+上海联通:
+云南电信:
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
     vdnd-qnvm-05b1736061244fe1ac6f04cd806d2a49
@@ -20,7 +20,7 @@
     vdnd-qnvm-e651e10b055e405bb920c8cea6a0a48e
     vdnd-qnvm-ec93ab77e46fa13ab2e12375f587ec41
     vdnd-qnvm-faa47d448678804628ab7ea5ec3a13e1
-大环-云南移动:
+云南移动:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -68,7 +68,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-云南联通:
+云南联通:
     vdnd-mtn-mtna4242b44027d17a20eb
     vdnd-qnvm-05b1736061244fe1ac6f04cd806d2a49
     vdnd-qnvm-0e5de880d3b5fb50b7ebbde7affb9c74
@@ -97,7 +97,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-内蒙古电信:
+内蒙古电信:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -159,7 +159,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-内蒙古移动:
+内蒙古移动:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -222,7 +222,7 @@
     vdnd-qnvm-faa47d448678804628ab7ea5ec3a13e1
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-qnvm-fe9c68fa9430fdd37f15ce74e8efa515
-大环-内蒙古联通:
+内蒙古联通:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -291,7 +291,7 @@
     vdnd-qnvm-fe9c68fa9430fdd37f15ce74e8efa515
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-北京电信:
+北京电信:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -388,7 +388,7 @@
     vdnd-scedge-691300756669730816
     xs492-cuc
     xs492-tel
-大环-北京移动:
+北京移动:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -462,7 +462,7 @@
     vdnd-qnvm-fe9c68fa9430fdd37f15ce74e8efa515
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-北京联通:
+北京联通:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-mtn-mtna2ee0e19a1f3509795a
     vdnd-mtn-mtna2fd985299b94710b0c
@@ -519,7 +519,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-qnvm-fe9c68fa9430fdd37f15ce74e8efa515
     vdnd-scedge-626859165444345856
-大环-吉林电信:
+吉林电信:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -574,7 +574,7 @@
     vdnd-qnvm-faa47d448678804628ab7ea5ec3a13e1
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
-大环-吉林移动:
+吉林移动:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -629,7 +629,7 @@
     vdnd-qnvm-faa47d448678804628ab7ea5ec3a13e1
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
-大环-吉林联通:
+吉林联通:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -694,7 +694,7 @@
     vdnd-qnvm-faa47d448678804628ab7ea5ec3a13e1
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
-大环-四川电信:
+四川电信:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -790,7 +790,7 @@
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
     xs492-tel
-大环-四川移动:
+四川移动:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -857,7 +857,7 @@
     vdnd-qnvm-fe9c68fa9430fdd37f15ce74e8efa515
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-四川联通:
+四川联通:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -926,7 +926,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-天津电信:
+天津电信:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -1001,7 +1001,7 @@
     vdnd-qnvm-fe9c68fa9430fdd37f15ce74e8efa515
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-天津移动:
+天津移动:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -1075,7 +1075,7 @@
     vdnd-qnvm-fe9c68fa9430fdd37f15ce74e8efa515
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-天津联通:
+天津联通:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -1143,7 +1143,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-宁夏电信:
+宁夏电信:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -1236,7 +1236,7 @@
     vdnd-qnvm-fe9c68fa9430fdd37f15ce74e8efa515
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-宁夏移动:
+宁夏移动:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -1281,7 +1281,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-宁夏联通:
+宁夏联通:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -1348,7 +1348,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-安徽电信:
+安徽电信:
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
     vdnd-qnvm-05b1736061244fe1ac6f04cd806d2a49
     vdnd-qnvm-09b6d5a881a6e332694a32bb4a1ebec2
@@ -1366,7 +1366,7 @@
     vdnd-qnvm-eb3c6bb01541b70331fd44afe02d1d5e
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
-大环-安徽移动:
+安徽移动:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -1431,7 +1431,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-安徽联通:
+安徽联通:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -1534,7 +1534,7 @@
     vdnd-qnvm-faa47d448678804628ab7ea5ec3a13e1
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-山东电信:
+山东电信:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -1597,7 +1597,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-山东移动:
+山东移动:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -1691,7 +1691,7 @@
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
     xs492-tel
-大环-山东联通:
+山东联通:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -1779,7 +1779,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-山西电信:
+山西电信:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -1862,7 +1862,7 @@
     vdnd-qnvm-fe9c68fa9430fdd37f15ce74e8efa515
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-山西移动:
+山西移动:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -1939,7 +1939,7 @@
     vdnd-qnvm-fe9c68fa9430fdd37f15ce74e8efa515
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-山西联通:
+山西联通:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -2027,7 +2027,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-广东电信:
+广东电信:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -2119,7 +2119,7 @@
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
     xs492-tel
-大环-广东移动:
+广东移动:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -2157,7 +2157,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-广东联通:
+广东联通:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -2232,7 +2232,7 @@
     vdnd-qnvm-fe9c68fa9430fdd37f15ce74e8efa515
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-广西电信:
+广西电信:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -2277,7 +2277,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-广西移动:
+广西移动:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -2324,7 +2324,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-广西联通:
+广西联通:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -2376,7 +2376,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-新疆电信:
+新疆电信:
     vdnd-mtn-mtna4242b44027d17a20eb
     vdnd-mtn-mtnac99eea9a6a9f2719fa
     vdnd-qnvm-05b1736061244fe1ac6f04cd806d2a49
@@ -2402,12 +2402,12 @@
     vdnd-qnvm-e5726cb61962b67a02c14811d3b30285
     vdnd-qnvm-f8e5e75bf4fb2b447c0da8bd68a23340
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
-大环-新疆移动:
-大环-新疆联通:
+新疆移动:
+新疆联通:
     vdnd-qnvm-05b1736061244fe1ac6f04cd806d2a49
     vdnd-qnvm-0efdf8dcd251497a901cae4b3799801d
     vdnd-qnvm-d1da9a8732194e18a46c91d76355d1f2
-大环-江苏电信:
+江苏电信:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -2498,7 +2498,7 @@
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
     xs492-tel
-大环-江苏移动:
+江苏移动:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -2586,7 +2586,7 @@
     vdnd-qnvm-fe9c68fa9430fdd37f15ce74e8efa515
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-江苏联通:
+江苏联通:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -2659,7 +2659,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-江西电信:
+江西电信:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-mtn-mtna3ee229378c80bd0364
     vdnd-mtn-mtna4242b44027d17a20eb
@@ -2708,7 +2708,7 @@
     vdnd-qnvm-fa514d1fb48995267a33e6e5a1041615
     vdnd-qnvm-fe9c68fa9430fdd37f15ce74e8efa515
     vdnd-scedge-691300756669730816
-大环-江西移动:
+江西移动:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -2784,7 +2784,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-江西联通:
+江西联通:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -2842,7 +2842,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-河北电信:
+河北电信:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -2943,7 +2943,7 @@
     vdnd-scedge-691300756669730816
     xs492-cuc
     xs492-tel
-大环-河北移动:
+河北移动:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -3008,7 +3008,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-河北联通:
+河北联通:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -3074,7 +3074,7 @@
     vdnd-qnvm-fe9c68fa9430fdd37f15ce74e8efa515
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-河南电信:
+河南电信:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -3136,7 +3136,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-河南移动:
+河南移动:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -3217,7 +3217,7 @@
     vdnd-qnvm-fe9c68fa9430fdd37f15ce74e8efa515
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-河南联通:
+河南联通:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -3295,7 +3295,7 @@
     vdnd-qnvm-fe9c68fa9430fdd37f15ce74e8efa515
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-浙江电信:
+浙江电信:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -3399,7 +3399,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-浙江移动:
+浙江移动:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -3494,7 +3494,7 @@
     vdnd-qnvm-fe9c68fa9430fdd37f15ce74e8efa515
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-浙江联通:
+浙江联通:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -3591,7 +3591,7 @@
     vdnd-qnvm-fe9c68fa9430fdd37f15ce74e8efa515
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-海南电信:
+海南电信:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -3645,7 +3645,7 @@
     vdnd-qnvm-faa47d448678804628ab7ea5ec3a13e1
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-691300756669730816
-大环-海南移动:
+海南移动:
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
     vdnd-mtn-mtna4242b44027d17a20eb
@@ -3683,8 +3683,8 @@
     vdnd-qnvm-faa47d448678804628ab7ea5ec3a13e1
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-海南联通:
-大环-湖北电信:
+海南联通:
+湖北电信:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -3767,7 +3767,7 @@
     vdnd-qnvm-fe9c68fa9430fdd37f15ce74e8efa515
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-湖北移动:
+湖北移动:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -3857,7 +3857,7 @@
     vdnd-qnvm-fe9c68fa9430fdd37f15ce74e8efa515
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-湖北联通:
+湖北联通:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -3930,7 +3930,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-湖南电信:
+湖南电信:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -4027,7 +4027,7 @@
     vdnd-qnvm-fffb7e8c35c47c22b6b3f4c674f74409
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-湖南移动:
+湖南移动:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -4099,7 +4099,7 @@
     vdnd-qnvm-fe9c68fa9430fdd37f15ce74e8efa515
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-湖南联通:
+湖南联通:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -4161,15 +4161,15 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-甘肃电信:
+甘肃电信:
     vdnd-qnvm-05b1736061244fe1ac6f04cd806d2a49
     vdnd-qnvm-1f243abbeeae862405c16632dae82bef
     vdnd-qnvm-6dc8b88997f04f545cfd8ed26b371402
     vdnd-qnvm-d1da9a8732194e18a46c91d76355d1f2
     vdnd-qnvm-e651e10b055e405bb920c8cea6a0a48e
-大环-甘肃移动:
-大环-甘肃联通:
-大环-福建电信:
+甘肃移动:
+甘肃联通:
+福建电信:
     vdnd-mtn-mtna2fd985299b94710b0c
     vdnd-mtn-mtna4242b44027d17a20eb
     vdnd-mtn-mtnac99eea9a6a9f2719fa
@@ -4236,7 +4236,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-福建移动:
+福建移动:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -4299,7 +4299,7 @@
     vdnd-qnvm-fe9c68fa9430fdd37f15ce74e8efa515
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-福建联通:
+福建联通:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -4370,10 +4370,10 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-西藏电信:
-大环-西藏移动:
-大环-西藏联通:
-大环-贵州电信:
+西藏电信:
+西藏移动:
+西藏联通:
+贵州电信:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -4463,7 +4463,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-贵州移动:
+贵州移动:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -4496,7 +4496,7 @@
     vdnd-qnvm-ec93ab77e46fa13ab2e12375f587ec41
     vdnd-qnvm-f8e5e75bf4fb2b447c0da8bd68a23340
     vdnd-qnvm-faa47d448678804628ab7ea5ec3a13e1
-大环-贵州联通:
+贵州联通:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -4560,7 +4560,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-辽宁电信:
+辽宁电信:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -4613,7 +4613,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-辽宁移动:
+辽宁移动:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -4665,7 +4665,7 @@
     vdnd-qnvm-faa47d448678804628ab7ea5ec3a13e1
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
-大环-辽宁联通:
+辽宁联通:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -4739,7 +4739,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-qnvm-fffb7e8c35c47c22b6b3f4c674f74409
     vdnd-scedge-626859165444345856
-大环-重庆电信:
+重庆电信:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -4803,9 +4803,9 @@
     vdnd-qnvm-fe9c68fa9430fdd37f15ce74e8efa515
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-重庆移动:
-大环-重庆联通:
-大环-陕西电信:
+重庆移动:
+重庆联通:
+陕西电信:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -4866,7 +4866,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-qnvm-fe9c68fa9430fdd37f15ce74e8efa515
     vdnd-scedge-626859165444345856
-大环-陕西移动:
+陕西移动:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -4925,7 +4925,7 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-陕西联通:
+陕西联通:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -5000,7 +5000,7 @@
     vdnd-qnvm-fffb7e8c35c47c22b6b3f4c674f74409
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-青海电信:
+青海电信:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -5053,9 +5053,9 @@
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-scedge-626859165444345856
     vdnd-scedge-691300756669730816
-大环-青海移动:
-大环-青海联通:
-大环-黑龙江电信:
+青海移动:
+青海联通:
+黑龙江电信:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
@@ -5108,7 +5108,7 @@
     vdnd-qnvm-f8e5e75bf4fb2b447c0da8bd68a23340
     vdnd-qnvm-faa47d448678804628ab7ea5ec3a13e1
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
-大环-黑龙江移动:
+黑龙江移动:
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
     vdnd-mtn-mtna2fd985299b94710b0c
     vdnd-mtn-mtnac99eea9a6a9f2719fa
@@ -5166,7 +5166,7 @@
     vdnd-qnvm-faa47d448678804628ab7ea5ec3a13e1
     vdnd-qnvm-fe21adc0ea936b3fcb39f8fc7628b6a5
     vdnd-qnvm-fe9c68fa9430fdd37f15ce74e8efa515
-大环-黑龙江联通:
+黑龙江联通:
     vdnd-bona-0602-0d820cce-d3de-4f11-acc5-8518df6e3852
     vdnd-bona-0602-4e00ffea-c986-4f3a-827d-70fd8cbfe115
     vdnd-bona-0919-a4478b43-4caa-40de-987e-4bfe90553878
